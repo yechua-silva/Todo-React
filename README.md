@@ -10,7 +10,7 @@ Es una aplicacion para gestinar tus tareas, aplicando localstorage para el mante
 
 ## Ver ejemplo en vivo
 
-- [Todo-React](https://cotizador-prestamos-react-yechua.netlify.app/)
+- [Todo-React](https://todo-react-yechua.netlify.app/)
 
 ## Contratación
 
