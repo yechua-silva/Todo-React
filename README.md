@@ -1,8 +1,17 @@
-# React + Vite
+# Todo con React - Tailwind - LocalStorage - DarkMode - Drag and drop
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Es una aplicacion para gestinar tus tareas, aplicando localstorage para el mantenimiento de la información solo en el navegador. Se utilizo tailwind para el estilizado de la pagina, asi como el dark mode y el responsive design
 
-Currently, two official plugins are available:
+## Autor ✒️
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Yechua Silva**
+
+- [LinkedIn](https://www.linkedin.com/in/yechua-silva/)
+
+## Ver ejemplo en vivo
+
+- [Todo-React](https://cotizador-prestamos-react-yechua.netlify.app/)
+
+## Contratación
+
+Si estás interesado en contratarme, puedes ponerte en contacto conmigo escribiendo a yechua-silva@outlook.cl para cualquier consulta o solicitud.
