@@ -50,8 +50,6 @@ function App() {
 		);
 	};
 
-	const computedItemsLeft = todos.filter((todo) => !todo.completed).length;
-
 	const clearCompleted = () => {
 		setTodos(todos.filter((todo) => !todo.completed));
 	};
@@ -105,11 +103,7 @@ function App() {
 					/>
 				</DragDropContext>
 
-				<TodoComputed
-					computedItemsLeft={computedItemsLeft}
-					clearCompleted={clearCompleted}
-					nroTodos={nroTodos}
-				/>
+				<TodoComputed clearCompleted={clearCompleted} nroTodos={nroTodos} />
 
 				<TodoFilter changeFilter={changeFilter} filter={filter} />
 			</main>
