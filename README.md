@@ -1,6 +1,6 @@
 # Todo con React - Tailwind - LocalStorage - DarkMode - Drag and drop
 
-Es una aplicacion para gestinar tus tareas, aplicando localstorage para el mantenimiento de la información solo en el navegador. Se utilizo tailwind para el estilizado de la pagina, asi como el dark mode y el responsive design
+Es una aplicacion para gestinar tus tareas en forma de practica, para practicar especificamente los props y como estos se comunican entre componentes, aplicando localstorage para el mantenimiento de la información solo en el navegador. Se utilizo tailwind para el estilizado de la pagina, asi como el dark mode y el responsive design
 
 ## Autor ✒️
 
