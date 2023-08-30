@@ -99,7 +99,6 @@ function App() {
 						todos={filterTodos()}
 						removeTodo={removeTodo}
 						updateTodo={updateTodo}
-						computedItemsLeft={computedItemsLeft}
 					/>
 				</DragDropContext>
 
